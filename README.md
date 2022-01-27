@@ -73,7 +73,7 @@ Later on, we used pretrained models such as Xception, Resnet50 and Efficientnet5
 Since this is a regression problem, we have used RMSE as the metric to evaluate our model performance while RME as the loss function. Of all the three SOTA pre-trained models, Xception performed the best with an MSE loss of  around 298 and an RMSE metric of 17.26 on the test data. The following is the performance of various models:
 
 <p align="center">
-    <img src="images\model-performance.png" alt="cnn-architecture" width="600px">
+    <img src="images\model-performance.png" alt="cnn-architecture">
 </p>
 
 # Thank you!
